@@ -30,12 +30,12 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>WebContent/compose/Dockerfile.dockerfile</name>
+			<name>src/compose/Dockerfile.dockerfile</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/%C3%81rea%20de%20Trabalho/Dockerfile.dockerfile</locationURI>
 		</link>
 		<link>
-			<name>WebContent/compose/docker-compose.yml</name>
+			<name>src/compose/docker-compose.yml</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/%C3%81rea%20de%20Trabalho/docker-compose.yml</locationURI>
 		</link>
